@@ -3,7 +3,7 @@
 #include <time.h>
 
 int main() {
-	// Imprime o cabeçalho do nosso jogo
+	// Imprime o cabeçalho do jogo
 	printf("******************************************\n");
 	printf("* Bem vindo ao jogo de adivinhação *\n");
 	printf("******************************************\n");
