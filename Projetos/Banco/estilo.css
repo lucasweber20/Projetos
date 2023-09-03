@@ -1,0 +1,65 @@
+#painel-login {
+	position: absolute;
+	top: 30%;
+	left: 50%;
+	margin: -90px;
+}
+
+#link-principal {
+	text-decoration: none;
+	color: #FFF;
+}
+
+#painel-criar-conta {
+	position: absolute;
+	top: 30%;
+	left: 43%;
+
+}
+
+#link-secundario {
+	text-decoration: none;
+	color: #FFF;
+}
+
+#link-pagina-inicial {
+	text-decoration: none;
+	color: #FFF;
+}
+
+.topo-selecionar {
+	background-color: #1a1a1a;
+	padding: 18px;
+}
+
+.topo-selecionar button {
+	font-size: 18px;
+}
+
+.topo-selecionar button:hover {
+	background-color: #b3b3b3;
+	color: #1a1a1a;
+}
+
+.rodape {
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	background-color: #1a1a1a;
+}
+
+#rodape-escrita {
+	text-align: center;
+	padding: 10px;
+	color: #FFF;
+}
+
+.centro {
+	text-align: center;
+	position: fixed;
+	bottom: 50%;
+	background-color: black;
+	border: red solid 1px;
+	margin: auto;
+	height: 50px;
+}
