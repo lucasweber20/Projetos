@@ -4,4 +4,4 @@
 
 3 - Execute o XAMPP e abra um servidor local Apache e MYSQL.
 
-4 - Acesse http://localhost/index.html.
+4 - Acesse: http://localhost/index.html.
