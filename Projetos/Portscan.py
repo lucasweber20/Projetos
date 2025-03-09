@@ -2,7 +2,7 @@ import nmap
 import sys
 
 
-print("="*30)
+print("="*29)
 print(""""
      ,            ,
     /             \                                                                                                                                          
